@@ -1,0 +1,429 @@
+2023-07-14 17:01:18.8474 Info Message Template Auto Format enabled
+2023-07-14 17:01:18.9889 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-14 17:01:19.0277 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-14 21:47:52.7056 Info Message Template Auto Format enabled
+2023-07-14 21:47:52.8506 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-14 21:47:52.8779 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-14 21:49:42.5101 Info Message Template Auto Format enabled
+2023-07-14 21:49:42.6160 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-14 21:49:42.6574 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-14 21:51:10.3380 Info Message Template Auto Format enabled
+2023-07-14 21:51:10.3961 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-14 21:51:10.4162 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-14 22:00:02.7539 Info Message Template Auto Format enabled
+2023-07-14 22:00:02.8281 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-14 22:00:02.8508 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-14 22:29:09.4425 Info Message Template Auto Format enabled
+2023-07-14 22:29:09.5370 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-14 22:29:09.5692 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 13:45:16.2095 Info Message Template Auto Format enabled
+2023-07-17 13:45:16.3210 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 13:45:16.3412 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 13:45:58.6143 Info Message Template Auto Format enabled
+2023-07-17 13:45:58.7073 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 13:45:58.7343 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 13:46:11.0195 Info Message Template Auto Format enabled
+2023-07-17 13:46:11.0874 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 13:46:11.1065 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 14:18:28.0494 Info Message Template Auto Format enabled
+2023-07-17 14:18:28.1134 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 14:18:28.1422 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 14:19:56.8632 Info Message Template Auto Format enabled
+2023-07-17 14:19:56.9226 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 14:19:56.9442 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 14:25:06.6263 Info Message Template Auto Format enabled
+2023-07-17 14:25:06.7325 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 14:25:06.7566 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 14:37:58.4905 Info Message Template Auto Format enabled
+2023-07-17 14:37:58.5461 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 14:37:58.5705 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 14:40:44.7733 Info Message Template Auto Format enabled
+2023-07-17 14:40:44.8319 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 14:40:44.8526 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 14:44:19.0009 Info Message Template Auto Format enabled
+2023-07-17 14:44:19.0536 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 14:44:19.0740 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 14:59:14.3309 Info Message Template Auto Format enabled
+2023-07-17 14:59:14.4407 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 14:59:14.4683 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 14:59:24.2601 Info Message Template Auto Format enabled
+2023-07-17 14:59:24.4054 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 14:59:24.4462 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 17:14:54.3677 Info Message Template Auto Format enabled
+2023-07-17 17:14:54.4633 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 17:14:54.4818 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 17:16:29.1643 Info Message Template Auto Format enabled
+2023-07-17 17:16:29.2334 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 17:16:29.2512 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 17:23:45.8548 Info Message Template Auto Format enabled
+2023-07-17 17:23:45.9172 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 17:23:45.9400 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 17:29:12.6387 Info Message Template Auto Format enabled
+2023-07-17 17:29:12.7062 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 17:29:12.7339 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 18:50:07.6405 Info Message Template Auto Format enabled
+2023-07-17 18:50:07.7546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 18:50:07.7845 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 18:59:27.5434 Info Message Template Auto Format enabled
+2023-07-17 18:59:27.6739 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 18:59:27.7029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 19:03:21.3447 Info Message Template Auto Format enabled
+2023-07-17 19:03:21.4503 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 19:03:21.4966 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-17 19:05:28.7552 Info Message Template Auto Format enabled
+2023-07-17 19:05:28.8540 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-17 19:05:28.8856 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-18 12:32:34.8705 Info Message Template Auto Format enabled
+2023-07-18 12:32:34.9989 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 12:32:35.0339 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-18 15:14:17.9127 Info Message Template Auto Format enabled
+2023-07-18 15:14:18.1780 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 15:14:18.2274 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-18 16:28:36.3313 Info Message Template Auto Format enabled
+2023-07-18 16:28:36.4115 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 16:28:36.4305 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-18 22:54:56.2972 Info Message Template Auto Format enabled
+2023-07-18 22:54:56.4570 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 22:54:56.4845 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-18 23:37:54.2166 Info Message Template Auto Format enabled
+2023-07-18 23:37:54.2895 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 23:37:54.3081 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 00:04:19.7300 Info Message Template Auto Format enabled
+2023-07-19 00:04:19.8112 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 00:04:19.8316 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 11:38:46.0916 Info Message Template Auto Format enabled
+2023-07-19 11:38:46.2023 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 11:38:46.2332 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 11:44:01.9528 Info Message Template Auto Format enabled
+2023-07-19 11:44:02.0903 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 11:44:02.1218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 11:45:12.5057 Info Message Template Auto Format enabled
+2023-07-19 11:45:12.5942 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 11:45:12.6177 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 11:45:49.2541 Info Message Template Auto Format enabled
+2023-07-19 11:45:49.3645 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 11:45:49.3974 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 11:53:29.4475 Info Message Template Auto Format enabled
+2023-07-19 11:53:29.5719 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 11:53:29.6016 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 12:05:29.7662 Info Message Template Auto Format enabled
+2023-07-19 12:05:29.8732 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 12:05:29.9096 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 13:21:21.9464 Info Message Template Auto Format enabled
+2023-07-19 13:21:22.0226 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 13:21:22.0431 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 13:47:00.0046 Info Message Template Auto Format enabled
+2023-07-19 13:47:00.0821 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 13:47:00.1021 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 17:10:10.3041 Info Message Template Auto Format enabled
+2023-07-19 17:10:10.4062 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 17:10:10.4406 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-19 17:12:36.1949 Info Message Template Auto Format enabled
+2023-07-19 17:12:36.3221 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-19 17:12:36.3554 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 21:24:34.3366 Info Message Template Auto Format enabled
+2023-07-20 21:24:34.4635 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 21:24:34.4910 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 21:27:12.0328 Info Message Template Auto Format enabled
+2023-07-20 21:27:12.1102 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 21:27:12.1284 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 21:28:30.3646 Info Message Template Auto Format enabled
+2023-07-20 21:28:30.4289 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 21:28:30.4484 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 21:37:06.1624 Info Message Template Auto Format enabled
+2023-07-20 21:37:06.2483 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 21:37:06.2698 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 22:08:48.1250 Info Message Template Auto Format enabled
+2023-07-20 22:08:48.1885 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 22:08:48.2084 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 22:09:29.3634 Info Message Template Auto Format enabled
+2023-07-20 22:09:29.4309 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 22:09:29.4539 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 22:09:52.7082 Info Message Template Auto Format enabled
+2023-07-20 22:09:52.7853 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 22:09:52.8099 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 22:12:56.3758 Info Message Template Auto Format enabled
+2023-07-20 22:12:56.4464 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 22:12:56.4665 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 22:14:26.6402 Info Message Template Auto Format enabled
+2023-07-20 22:14:26.7218 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 22:14:26.7491 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 22:16:12.9749 Info Message Template Auto Format enabled
+2023-07-20 22:16:13.0422 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 22:16:13.0646 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 22:16:47.5037 Info Message Template Auto Format enabled
+2023-07-20 22:16:47.5811 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 22:16:47.6009 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-20 22:23:03.0204 Info Message Template Auto Format enabled
+2023-07-20 22:23:03.0910 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 22:23:03.1111 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 10:48:38.4375 Info Message Template Auto Format enabled
+2023-07-21 10:48:38.5542 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 10:48:38.5814 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 10:48:49.8439 Info Message Template Auto Format enabled
+2023-07-21 10:48:49.9236 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 10:48:49.9490 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 10:52:37.8479 Info Message Template Auto Format enabled
+2023-07-21 10:52:37.9171 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 10:52:37.9391 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 11:52:28.2304 Info Message Template Auto Format enabled
+2023-07-21 11:52:28.3019 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 11:52:28.3239 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 11:58:04.5119 Info Message Template Auto Format enabled
+2023-07-21 11:58:04.5945 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 11:58:04.6173 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 14:50:58.1393 Info Message Template Auto Format enabled
+2023-07-21 14:50:58.2433 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 14:50:58.2742 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 15:07:03.2675 Info Message Template Auto Format enabled
+2023-07-21 15:07:03.4133 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 15:07:03.4710 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 15:11:52.0480 Info Message Template Auto Format enabled
+2023-07-21 15:11:52.1451 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 15:11:52.1756 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 15:17:39.9183 Info Message Template Auto Format enabled
+2023-07-21 15:17:40.0234 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 15:17:40.0585 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:22:48.3200 Info Message Template Auto Format enabled
+2023-07-21 20:22:48.4136 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:22:48.4434 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:24:46.3701 Info Message Template Auto Format enabled
+2023-07-21 20:24:46.5249 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:24:46.5516 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:36:43.4099 Info Message Template Auto Format enabled
+2023-07-21 20:36:43.4848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:36:43.5049 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:41:56.5557 Info Message Template Auto Format enabled
+2023-07-21 20:41:56.6362 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:41:56.6587 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:48:30.5535 Info Message Template Auto Format enabled
+2023-07-21 20:48:30.6330 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:48:30.6566 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:49:40.6104 Info Message Template Auto Format enabled
+2023-07-21 20:49:40.6837 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:49:40.7048 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:51:19.6061 Info Message Template Auto Format enabled
+2023-07-21 20:51:19.6888 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:51:19.7127 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:53:00.5044 Info Message Template Auto Format enabled
+2023-07-21 20:53:00.5736 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:53:00.5959 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-21 20:55:57.0335 Info Message Template Auto Format enabled
+2023-07-21 20:55:57.1074 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-21 20:55:57.1341 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 11:17:42.9542 Info Message Template Auto Format enabled
+2023-07-24 11:17:43.1489 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 11:17:43.1820 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 11:50:30.0186 Info Message Template Auto Format enabled
+2023-07-24 11:50:30.0776 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 11:50:30.0922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 11:50:31.0116 Info AppDomain Shutting down. LogFactory closing...
+2023-07-24 11:50:31.0116 Info LogFactory has been closed.
+2023-07-24 11:51:41.5189 Info Message Template Auto Format enabled
+2023-07-24 11:51:41.5544 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 11:51:41.5686 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 11:51:42.5007 Info AppDomain Shutting down. LogFactory closing...
+2023-07-24 11:51:42.5007 Info LogFactory has been closed.
+2023-07-24 11:55:21.2047 Info Message Template Auto Format enabled
+2023-07-24 11:55:21.2401 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 11:55:21.2537 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 11:55:21.9694 Info AppDomain Shutting down. LogFactory closing...
+2023-07-24 11:55:21.9694 Info LogFactory has been closed.
+2023-07-24 12:02:00.2409 Info Message Template Auto Format enabled
+2023-07-24 12:02:00.2806 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 12:02:00.2952 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 12:02:01.0301 Info AppDomain Shutting down. LogFactory closing...
+2023-07-24 12:02:01.0301 Info LogFactory has been closed.
+2023-07-24 12:02:36.8217 Info Message Template Auto Format enabled
+2023-07-24 12:02:36.8574 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 12:02:36.8715 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 12:02:37.6868 Info AppDomain Shutting down. LogFactory closing...
+2023-07-24 12:02:37.6868 Info LogFactory has been closed.
+2023-07-24 13:14:56.8955 Info Message Template Auto Format enabled
+2023-07-24 13:14:57.0388 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 13:14:57.0890 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 14:14:16.6521 Info Message Template Auto Format enabled
+2023-07-24 14:14:16.8103 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 14:14:16.8577 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 16:15:41.1430 Info Message Template Auto Format enabled
+2023-07-24 16:15:41.3415 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 16:15:41.3598 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 16:20:45.7907 Info Message Template Auto Format enabled
+2023-07-24 16:20:45.8671 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 16:20:45.8851 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 18:35:52.6165 Info Message Template Auto Format enabled
+2023-07-24 18:35:52.7388 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 18:35:52.7703 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 18:41:10.0922 Info Message Template Auto Format enabled
+2023-07-24 18:41:10.3516 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 18:41:10.3819 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 18:44:53.8737 Info Message Template Auto Format enabled
+2023-07-24 18:44:54.0203 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 18:44:54.0607 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 19:40:01.6213 Info Message Template Auto Format enabled
+2023-07-24 19:40:01.6816 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 19:40:01.7008 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 19:40:02.9431 Info AppDomain Shutting down. LogFactory closing...
+2023-07-24 19:40:02.9519 Info LogFactory has been closed.
+2023-07-24 19:40:29.7191 Info Message Template Auto Format enabled
+2023-07-24 19:40:29.7934 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 19:40:29.8171 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-24 19:40:31.7424 Info AppDomain Shutting down. LogFactory closing...
+2023-07-24 19:40:31.7567 Info LogFactory has been closed.
+2023-07-24 20:29:41.2934 Info Message Template Auto Format enabled
+2023-07-24 20:29:41.3789 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-24 20:29:41.3993 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 12:19:52.3905 Info Message Template Auto Format enabled
+2023-07-25 12:19:52.5108 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 12:19:52.5413 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 12:21:44.7389 Info Message Template Auto Format enabled
+2023-07-25 12:21:44.8460 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 12:21:44.8830 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 12:25:07.9456 Info Message Template Auto Format enabled
+2023-07-25 12:25:08.0690 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 12:25:08.1220 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 12:26:20.0202 Info Message Template Auto Format enabled
+2023-07-25 12:26:20.1523 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 12:26:20.1873 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 12:41:12.4941 Info Message Template Auto Format enabled
+2023-07-25 12:41:12.6034 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 12:41:12.6334 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 13:49:51.0215 Info Message Template Auto Format enabled
+2023-07-25 13:49:51.0636 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 13:49:51.0771 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 13:49:52.0661 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 13:49:52.0734 Info LogFactory has been closed.
+2023-07-25 13:50:23.1925 Info Message Template Auto Format enabled
+2023-07-25 13:50:23.2285 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 13:50:23.2420 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 13:50:24.0360 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 13:50:24.0428 Info LogFactory has been closed.
+2023-07-25 13:50:43.8228 Info Message Template Auto Format enabled
+2023-07-25 13:50:43.8603 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 13:50:43.8746 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 13:50:44.8494 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 13:50:44.8562 Info LogFactory has been closed.
+2023-07-25 14:07:53.4770 Info Message Template Auto Format enabled
+2023-07-25 14:07:53.5457 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 14:07:53.5641 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 14:31:49.5527 Info Message Template Auto Format enabled
+2023-07-25 14:31:49.6247 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 14:31:49.6435 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 15:40:37.0402 Info Message Template Auto Format enabled
+2023-07-25 15:40:37.1078 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 15:40:37.1406 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 15:40:38.6479 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 15:40:38.6613 Info LogFactory has been closed.
+2023-07-25 15:40:58.7106 Info Message Template Auto Format enabled
+2023-07-25 15:40:58.7872 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 15:40:58.8073 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 15:41:00.5980 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 15:41:00.6111 Info LogFactory has been closed.
+2023-07-25 16:15:38.0789 Info Message Template Auto Format enabled
+2023-07-25 16:15:38.1377 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:15:38.1582 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:15:39.5192 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:15:39.5292 Info LogFactory has been closed.
+2023-07-25 16:24:51.7352 Info Message Template Auto Format enabled
+2023-07-25 16:24:51.8745 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:24:51.8965 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:24:53.6398 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:24:53.6502 Info LogFactory has been closed.
+2023-07-25 16:26:26.5971 Info Message Template Auto Format enabled
+2023-07-25 16:26:26.6550 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:26:26.7064 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:26:28.0054 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:26:28.0148 Info LogFactory has been closed.
+2023-07-25 16:26:36.9154 Info Message Template Auto Format enabled
+2023-07-25 16:26:36.9728 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:26:36.9926 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:26:38.4170 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:26:38.4170 Info LogFactory has been closed.
+2023-07-25 16:31:26.7580 Info Message Template Auto Format enabled
+2023-07-25 16:31:26.8125 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:31:26.8319 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:31:28.2481 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:31:28.2703 Info LogFactory has been closed.
+2023-07-25 16:32:37.7071 Info Message Template Auto Format enabled
+2023-07-25 16:32:37.7669 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:32:37.7860 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:32:39.0766 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:32:39.0766 Info LogFactory has been closed.
+2023-07-25 16:38:33.5210 Info Message Template Auto Format enabled
+2023-07-25 16:38:33.5929 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:38:33.6165 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:38:34.5129 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:38:34.5267 Info LogFactory has been closed.
+2023-07-25 16:38:40.1250 Info Message Template Auto Format enabled
+2023-07-25 16:38:40.1813 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:38:40.2028 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:38:41.4013 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:38:41.4013 Info LogFactory has been closed.
+2023-07-25 16:38:55.9479 Info Message Template Auto Format enabled
+2023-07-25 16:38:56.0151 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:38:56.0422 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:38:57.4518 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:38:57.4518 Info LogFactory has been closed.
+2023-07-25 16:39:22.1873 Info Message Template Auto Format enabled
+2023-07-25 16:39:22.2399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:39:22.2590 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:39:24.0453 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:39:24.0581 Info LogFactory has been closed.
+2023-07-25 16:42:27.4617 Info Message Template Auto Format enabled
+2023-07-25 16:42:27.5212 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:42:27.5479 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:42:28.9734 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:42:28.9827 Info LogFactory has been closed.
+2023-07-25 16:43:22.3660 Info Message Template Auto Format enabled
+2023-07-25 16:43:22.4323 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-25 16:43:22.4818 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-25 16:43:24.1669 Info AppDomain Shutting down. LogFactory closing...
+2023-07-25 16:43:24.1669 Info LogFactory has been closed.
+2023-07-26 11:06:40.5638 Info Message Template Auto Format enabled
+2023-07-26 11:06:40.6717 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:06:40.7017 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:15:21.8398 Info Message Template Auto Format enabled
+2023-07-26 11:15:21.9421 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:15:21.9708 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:17:18.4482 Info Message Template Auto Format enabled
+2023-07-26 11:17:18.5765 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:17:18.6307 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:17:55.9451 Info Message Template Auto Format enabled
+2023-07-26 11:17:56.0351 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:17:56.0625 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:18:33.0000 Info Message Template Auto Format enabled
+2023-07-26 11:18:33.1139 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:18:33.1427 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:20:41.6068 Info Message Template Auto Format enabled
+2023-07-26 11:20:41.7102 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:20:41.7432 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:26:32.2549 Info Message Template Auto Format enabled
+2023-07-26 11:26:32.3789 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:26:32.4083 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:29:21.5598 Info Message Template Auto Format enabled
+2023-07-26 11:29:21.6789 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:29:21.7153 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:31:34.5198 Info Message Template Auto Format enabled
+2023-07-26 11:31:34.6519 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:31:34.6924 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:39:27.4551 Info Message Template Auto Format enabled
+2023-07-26 11:39:27.6099 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:39:27.6363 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:45:07.4110 Info Message Template Auto Format enabled
+2023-07-26 11:45:07.4787 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:45:07.5080 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 11:50:48.4819 Info Message Template Auto Format enabled
+2023-07-26 11:50:48.5932 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 11:50:48.6285 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 12:02:40.8458 Info Message Template Auto Format enabled
+2023-07-26 12:02:40.9800 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 12:02:41.0099 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 12:05:00.3012 Info Message Template Auto Format enabled
+2023-07-26 12:05:00.4351 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 12:05:00.4690 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 12:06:01.4254 Info Message Template Auto Format enabled
+2023-07-26 12:06:01.5387 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 12:06:01.5688 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
+2023-07-26 12:08:37.7505 Info Message Template Auto Format enabled
+2023-07-26 12:08:37.8652 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-26 12:08:37.9145 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gulco\Desktop\BTK\bsStoreApp\WebApi\nlog.config
